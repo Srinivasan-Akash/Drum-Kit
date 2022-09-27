@@ -1,11 +1,13 @@
 let volume = document.getElementById("volume")
 let btns = document.querySelectorAll("button")
 
-let audios = []
-
-for(let i = 0; i<7; i++){
-    audios.push(new Audio(`./audio/sounds_sound-${i+1}.mp3`))
-}
+let audios = [new Audio("./audio/sounds_sound-1.mp3"),
+             new Audio("./audio/sounds_sound-2.mp3"),
+             new Audio("./audio/sounds_sound-3.mp3"),
+             new Audio("./audio/sounds_sound-4.mp3"),
+             new Audio("./audio/sounds_sound-5.mp3"),
+             new Audio("./audio/sounds_sound-6.mp3"),
+             new Audio("./audio/sounds_sound-7.mp3")]
 
 volume.addEventListener("change", (e) => {
     audios.forEach((item) => {
