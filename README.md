@@ -2,7 +2,7 @@
 
 This is basically a drum kit non responsive ui when you click on a button or click on a key on a keyboard an audio will play with an effect hope you like my project
 
-***NOTE that If you press a same key multiple times the audio will play with delay that is beacuse the audio clips i used are have 1s to 2s of emty space ***
+***NOTE that If you press a same key multiple times the audio will play with delay that is beacuse the audio clips i used are have 1s to 2s of emty space***
 
 ## 🛠 Technologies Used
   - HTML - Hyper Text Markup Language
