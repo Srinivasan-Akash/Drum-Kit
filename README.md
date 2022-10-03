@@ -11,10 +11,10 @@ This is basically a drum kit non responsive ui when you click on a button or cli
   
 ## 📂 File Structure
 This is made in vanialla JS so the file structure is not too complex basically have 4 files which are
-      - index.html - Contains all html elements
-      - style.css - styles the html element
-      - app.js - Adds eventlisteners
-      - util.js - Has all the utility functions
+- index.html - Contains all html elements
+- style.css - styles the html element
+- app.js - Adds eventlisteners
+- util.js - Has all the utility functions
 
 ## 🚩 Demo In Laptop Screen
 
