@@ -14,30 +14,30 @@ function checkKey(event){
         case "a":
         case "A":
             audios[0].HAVE_ENOUGH_DATA ? audios[0].play() : alert("PLease Wait For the audios to Load !!");
-            break;
+            zzzz
         case "s":
         case "S":
-            audios[1].HAVE_ENOUGH_DATA ? audios[0].play() : alert("PLease Wait For the audios to Load !!");
+            audios[1].HAVE_ENOUGH_DATA ? audios[1].play() : alert("PLease Wait For the audios to Load !!");
             break;
         case "d":
         case "D":
-            audios[2].HAVE_ENOUGH_DATA ? audios[0].play() : alert("PLease Wait For the audios to Load !!");
+            audios[2].HAVE_ENOUGH_DATA ? audios[2].play() : alert("PLease Wait For the audios to Load !!");
             break;
         case "f":
         case "F":
-            audios[3].HAVE_ENOUGH_DATA ? audios[0].play() : alert("PLease Wait For the audios to Load !!");
+            audios[3].HAVE_ENOUGH_DATA ? audios[3].play() : alert("PLease Wait For the audios to Load !!");
             break;
         case "j":
         case "J":
-            audios[4].HAVE_ENOUGH_DATA ? audios[0].play() : alert("PLease Wait For the audios to Load !!");
+            audios[4].HAVE_ENOUGH_DATA ? audios[4].play() : alert("PLease Wait For the audios to Load !!");
             break;
         case "k":
         case "K":
-            audios[5].HAVE_ENOUGH_DATA ? audios[0].play() : alert("PLease Wait For the audios to Load !!");
+            audios[5].HAVE_ENOUGH_DATA ? audios[5].play() : alert("PLease Wait For the audios to Load !!");
             break;
         case "l":
         case "L":
-            audios[6].HAVE_ENOUGH_DATA ? audios[0].play() : alert("PLease Wait For the audios to Load !!");
+            audios[6].HAVE_ENOUGH_DATA ? audios[6].play() : alert("PLease Wait For the audios to Load !!");
             break;
     }
 }
